@@ -22,7 +22,7 @@
 					<groupId>org.codehaus.mojo</groupId>
 					<artifactId>exec-maven-plugin</artifactId>
 					<configuration>
-						<executable>python</executable>
+						<executable>python3</executable>
 						<workingDirectory>${basedir}</workingDirectory>
 						<environmentVariables>
 							<VERSION>${project.version}</VERSION>
