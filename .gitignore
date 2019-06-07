@@ -10,3 +10,5 @@ nosetests.xml
 .coverage
 __version__.py
 TEST-nosetests.xml
+.idea
+*.eggs
